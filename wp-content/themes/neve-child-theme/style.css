@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/*
+ Theme Name:   Neve Child
+ Theme URI:    https:///kilic.dk/portfolio2020/
+ Description:  Neve Child Theme
+ Author:       Murat Kilic
+ Author URI:   https:///kilic.dk/portfolio2020/
+ Template:     neve
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  nevechild
+*/
+
+label {
+
+    font-size: 1.8rem;
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif !important;
+    
+}
+
+.entry-content p, .entry-content ol, .entry-content ul, .entry-content dl, .entry-content dt {
+   
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif !important;
+}
+
+.nv-single-page-wrap.col {
+    padding-left: 2.4rem !important;
+}
+

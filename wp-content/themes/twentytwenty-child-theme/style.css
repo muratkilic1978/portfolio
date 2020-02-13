@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    http://kilic.dk/portfolio202/
+ Description:  Twenty Twenty Child Theme
+ Author:       Murat kilic  
+ Author URI:   https://kilic.dk/portfolio2020/
+ Template:     twentytwenty
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentytwentychild
+*/
+
+label {
+
+    font-size: 1.8rem;
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    
+}
+
+.entry-content p, .entry-content ol, .entry-content ul, .entry-content dl, .entry-content dt {
+   
+    font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+}

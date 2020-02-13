@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Hamilton Child
+ Theme URI:    https://kilic.dk/portfolio2020
+ Description:  Hamilton Child Theme based on Hamilton Mother Theme
+ Author:       Murat Kilic
+ Author URI:   https://kilic.dk/portfolio2020
+ Template:     hamilton
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  hamiltonchild
+*/
+
+* { background-color: pink;}
+
+a.site-name {
+    font-size: 2rem;
+    color: cadetblue;
+    letter-spacing: 1.3rem;
+}
